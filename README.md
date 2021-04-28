@@ -2,8 +2,8 @@
 A simple calculator build in C, Gtk 3 and SQLite for educational purposes. It performs basic calculations and the results can stored in an SQLite database
 
 Key functions
-a) Keys 1-9 -> For numbers entry
-b) Symbols + - / * -> For math funcyions
+a) Keys 1-9 -> For numbers entry \n
+b) Symbols + - / * -> For math functions
 c) Equal sign = -> to get the result
 d) Period . -> To enter decimal numerals
 e) Clr -> Clears the entry widget
