@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 2, 2021, 12:48:52 AM
+    Author     : vostino
+*/
+#calcentry{
+         padding: 10px;
+         margin-left: 7px;
+         margin-right: 7px;
+         box-shadow: inset 2px 2px 5px rgba(0,0,0,.8);
+
+}
+
+.lblclass{
+         color: black;
+         font-size: 1.7em;
+         font-weight: bold;
+}
+
+#numpadidec{	
+         padding: 3px;
+         background-color: #cccccc;
+
+}
+
+#prntvbox{	
+         padding: 3px;
+         background-color: #cccccc;
+
+}
+
+#numpads{
+         color: black;
+         margin: 4px;
+         font-size: 1.2em;
+         border-radius: 10px;	
+         padding-bottom: 12px;
+         padding-left: 40px;
+         padding-right: 40px;
+         padding-top: 12px;
+         background-color: #cccccc;
+         box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0,0.1);
+}
+
+#numpadsa{
+         color: black;
+         padding: 12px;
+         margin: 4px;
+         font-size: 1.2em;
+         margin-top: 7px;
+         margin-bottom: 4px;
+         margin-left: 4px;
+         margin-right: 4px;
+         border-radius: 10px;
+         background-color: #cccccc;
+         box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0,0.1);
+}
+
+#numpadsb{
+         color: black;
+         padding: 12px;
+         margin: 4px;
+         font-size: 1.2em;
+         margin-top: 7px;
+         margin-bottom: 4px;
+         margin-left: 4px;
+         margin-right: 4px;
+         border-radius: 20px;
+         background-color: #cccccc;
+         box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0,0.1);
+}
+#numpadsc{
+         color: black;
+         padding: 12px;
+         margin: 4px;
+         font-size: 1.5em;
+         margin-top: 7px;
+         margin-bottom: 4px;
+         margin-left: 4px;
+         margin-right: 4px;
+         border-radius: 12px;
+         font-weight: bold;
+         padding-bottom: 17px;
+         padding-left: 20px;
+         padding-right: 20px;
+         padding-top: 17px;
+         background-color: #cccccc;
+         box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0,0.1);
+}
+
+#numpads:hover{
+
+}
