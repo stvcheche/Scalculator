@@ -1,5 +1,5 @@
 # Scalculator
-A simple calculator build in C, Gtk 3 and SQLite for educational purposes. It performs basic calculations and the results can be stored in an SQLite database
+A simple calculator build in C, Gtk 3 and SQLite for educational purposes. It performs basic calculations and the results can be stored in an SQLite database. This project depicts the applications of some of the fundamental principles of C Gtk3 and SQLite.
 
 ![Scalculator image](https://github.com/stvcheche/Scalculator/blob/main/Scalculator.png)
 
@@ -10,9 +10,8 @@ c) Equal sign = -> to get the result <br>
 d) Period . -> To enter decimal numerals <br>
 e) Clr -> Clears the entry widget <br>
 f) Memsv -> Commits entry widget text to SQLite memory <br>
-g) Memgt -> Cycles throught the saved entries and displays them in the entry widget <br>
+g) Memgt -> Cycles through the saved entries and displays them in the entry widget <br>
 h) AC -> Clears the stored data <br>
 
 <h3>Executable files</h3>
 The linux executable file is located in: https://github.com/stvcheche/Scalculator/tree/main/Gtktuts/dist/Release/GNU-Linux/gtktuts
-
