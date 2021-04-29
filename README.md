@@ -3,7 +3,7 @@ A simple calculator build in C, Gtk 3 and SQLite for educational purposes. It pe
 
 ![Scalculator image](https://github.com/stvcheche/Scalculator/blob/main/Scalculator.png)
 
-<h3>Key functions</h3> <br>
+<h3>Key functions</h3>
 a) Keys 1-9 -> For numbers entry <br>
 b) Symbols + - / * -> For math functions <br>
 c) Equal sign = -> to get the result <br>
