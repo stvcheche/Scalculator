@@ -13,4 +13,6 @@ f) Memsv -> Commits entry widget text to SQLite memory <br>
 g) Memgt -> Cycles throught the saved entries and displays them in the entry widget <br>
 h) AC -> Clears the stored data <br>
 
+<h3>Executable files</h3>
+The linux executable file is located in: https://github.com/stvcheche/Scalculator/tree/main/Gtktuts/dist/Release/GNU-Linux/gtktuts
 
