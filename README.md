@@ -1,5 +1,5 @@
 # Scalculator
-A simple calculator build in C, Gtk 3 and SQLite for educational purposes. It performs basic calculations and the results can be stored in an SQLite database. This project depicts the applications of some of the fundamental principles of C Gtk3 and SQLite.
+A simple calculator build in C, Gtk 3 and SQLite3 for educational purposes. It performs basic calculations and the results can be stored in an SQLite3 database. This project depicts the applications of some of the fundamental principles of C Gtk3 and SQLite3.
 
 ![Scalculator image](https://github.com/stvcheche/Scalculator/blob/main/Scalculator.png)
 
