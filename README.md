@@ -11,3 +11,4 @@ f) Memsv -> Commits entry widget text to SQLite memory <br>
 g) Memgt -> Cycles throught the saved entries <br>
 h) AC -> Clears memory <br>
 
+![Scalculator image](https://github.com/stvcheche/Scalculator/blob/main/Scalculator.png)
