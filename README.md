@@ -14,4 +14,4 @@ g) Memgt -> Cycles through the saved entries and displays them in the entry widg
 h) AC -> Clears the stored data <br>
 
 <h3>Executable files</h3>
-The linux executable file is located in: https://github.com/stvcheche/Scalculator/tree/main/Gtktuts/dist/Release/GNU-Linux/gtktuts
+The linux executable file is located in: https://github.com/stvcheche/Scalculator/tree/main/Gtktuts/dist/Release/GNU-Linux
